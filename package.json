@@ -1,0 +1,21 @@
+{
+  "name": "namaste_nodejs_course",
+  "version": "1.0.0",
+  "description": "this is backened learning by namaste backened",
+  "main": "app.js",
+  "scripts": {
+   "dev":"nodemon src/app.js",
+   "start": "node src/app.js"
+  },
+  "keywords": [
+    "express",
+    "js",
+    "node",
+    "js"
+  ],
+  "author": "sonu gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}

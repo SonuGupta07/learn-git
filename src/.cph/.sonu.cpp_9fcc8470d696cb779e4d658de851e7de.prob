@@ -1,0 +1,1 @@
+{"name":"Local: sonu","url":"/Users/sonugupta/Desktop/Namaste_nodejs_course/src/sonu.cpp","tests":[{"id":1732889517797,"input":"10\n0 2\n0 1\n1 1\n1 0\n2 0\n2 2\n3 2\n3 3\n1 3\n1 2\n2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/sonugupta/Desktop/Namaste_nodejs_course/src/sonu.cpp","group":"local","local":true}
